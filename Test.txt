@@ -2,3 +2,4 @@ ABC2
 ABC123
 EE-20
 EE-20 smart commit test4
+EE-20 test
